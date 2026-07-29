@@ -1,1 +1,1 @@
-# basic frontend proje
+# basic frontend project
