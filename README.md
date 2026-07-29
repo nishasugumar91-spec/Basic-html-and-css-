@@ -1,2 +1,1 @@
-# Golden-hour-helper
-Tcs Ai Hackathon project
+# basic frontend proje
