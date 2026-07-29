@@ -1,2 +1,2 @@
-# Golden-hour-helper-
+# Golden-hour-helper
 Tcs Ai Hackathon project
